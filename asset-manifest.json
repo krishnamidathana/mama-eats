@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mama-eats/static/css/main.ac53f247.css",
+    "main.js": "/mama-eats/static/js/main.7bbc484e.js",
+    "index.html": "/mama-eats/index.html",
+    "main.ac53f247.css.map": "/mama-eats/static/css/main.ac53f247.css.map",
+    "main.7bbc484e.js.map": "/mama-eats/static/js/main.7bbc484e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac53f247.css",
+    "static/js/main.7bbc484e.js"
+  ]
+}
