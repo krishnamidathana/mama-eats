@@ -73,7 +73,7 @@ export const mealData = [
     name: "cheeseless pizza",
     category: "pizza",
     image:
-      "https://res.cloudinary.com/ehizeex-shop/image/upload/v1672324456/NetflixApp/cheeseless_pizza_bkuecz.jpg",
+      "https://media.istockphoto.com/id/641084598/photo/cauliflower-pizza-crust-with-tomato-and-spinach.webp?b=1&s=170667a&w=0&k=20&c=mIusRDJyNjobhCpjBgh3bRXFmjrUhx5pKQEdD2o0Rd0=",
     price: "₹200",
   },
   {
