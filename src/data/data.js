@@ -3,7 +3,7 @@ export const topPicks = [
     id: 1,
     title: "shawarma",
     price: "₹85",
-    img: "https://res.cloudinary.com/ehizeex-shop/image/upload/v1672323737/NetflixApp/chiken_shawarma_c0ysna.jpg",
+    img: "https://img.freepik.com/free-photo/fresh-sandwich-cutting-board-with-healthy-tomatoes-generative-ai_188544-8108.jpg?w=740&t=st=1706161359~exp=1706161959~hmac=a7b6a426e8d1e933f4dae3c72e8f1a5cd101dc87cdbbe58e106934f783837fcb",
   },
   {
     id: 2,
